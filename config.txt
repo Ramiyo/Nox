@@ -1,0 +1,6 @@
+owner=523953583440396290
+prefix=N
+game=Nox Server
+stayinchannel=true
+songinstatus=false
+token=NTg2NTI5MzA1MjExOTYxMzQ0.XPpWOw.SRaSTNXGUrOPYv912ZOOGYXzNQ4
